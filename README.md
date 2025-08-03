@@ -57,7 +57,7 @@ The cascade buck-boost topology uses two bidirectional switches (MOSFETs with bo
 ![alt text](image-3.png)
 - **Buck Mode:** Input 24V, Output 12V  
 ![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](iamge-5.png)
 Simulations confirmed stable voltage regulation and efficient power transfer.
 
 ## Project Outcomes
